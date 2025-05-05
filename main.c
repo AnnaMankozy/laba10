@@ -56,4 +56,5 @@ int main() {
     printf("Масив x: sum = %.2f, average = %.2f\n", sum, avg);
 
     analyz(y, NY, a, b, &sum, &avg);
+    return 0;
 }
